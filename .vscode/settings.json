@@ -1,0 +1,22 @@
+{
+    "i18n-ally.localesPaths": ["locales"],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "i18n-ally.keystyle": "nested",
+    "prettier.bracketSameLine": true,
+    "prettier.requireConfig": true,
+    "prettier.configPath": "",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "eslint.validate": [],
+    "editor.autoIndent": "full",
+    "[vue]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": "ms-vsliveshare.vsliveshare"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+  }
+  
