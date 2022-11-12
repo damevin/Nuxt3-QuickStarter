@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="text-xl testing">Hello world</h1>
+    <MoleculeWelcomeHeader />
   </div>
 </template>
 
