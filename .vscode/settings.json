@@ -1,0 +1,18 @@
+{
+    "prettier.bracketSameLine": true,
+    "prettier.requireConfig": true,
+    "prettier.configPath": "",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "eslint.validate": [],
+    "editor.autoIndent": "full",
+    "[vue]": {
+      "editor.formatOnSave": false,
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+  }
+  
