@@ -19,8 +19,7 @@ git clone https://github.com/damevin/Nuxt3-QuickStarter.git
 
 Navigate to the project directory:
 ```bash
-cd quick-starter
-Install the dependencies:
+cd Nuxt3-QuickStarter
 ```
 
 Install dependencies
