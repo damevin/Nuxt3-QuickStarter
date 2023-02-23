@@ -1,42 +1,49 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 — Quick starter
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Nuxt 3 — Quick starter is a project template that provides a quick and easy way to start a Vue 3 project with Composition API, script setup, Tailwind, Nuxt 3, and several other dependencies pre-configured. This documentation will guide you through the installation, configuration, and usage of Quick starter.
 
-## Setup
+## Prerequisites
+Before getting started, you should have the following prerequisites installed on your system:
 
-Make sure to install the dependencies:
+- Node.js v14 or later
+- NPM or Yarn package manager
 
-```bash
-# yarn
-yarn install
+## Installation
+To install Quick starter, follow the steps below:
 
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
+Clone the Quick starter repository:
 
 ```bash
-npm run dev
+git clone https://github.com/your-username/quick-starter.git
 ```
 
-## Production
+Navigate to the project directory:
+```bash
+cd quick-starter
+Install the dependencies:
+```
 
-Build the application for production:
+Install dependencies
+```
+pnpm install
+```
+
+## Configuration
+Quick starter comes pre-configured with several dependencies, including:
+
+- Vue 3
+- Composition API
+- Script setup
+- Tailwind
+- Nuxt 3
+
+If you need to modify any of these configurations, you can do so by editing the corresponding configuration files in the project directory.
+
+## Usage
+Once you have installed and configured Quick starter, you can start using it to develop your Vue 3 project.
+
+To start the development server, run:
 
 ```bash
-npm run build
+pnpm dev
 ```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
