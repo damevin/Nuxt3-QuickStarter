@@ -3,6 +3,7 @@
 export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss', '@nuxtjs/robots', 'nuxt-purgecss', '@nuxt/image-edge'],
   ssr: false,
+  devServerHandlers: [],
   app: {
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
