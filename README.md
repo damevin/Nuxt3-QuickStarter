@@ -14,7 +14,7 @@ To install Quick starter, follow the steps below:
 Clone the Quick starter repository:
 
 ```bash
-git clone https://github.com/your-username/quick-starter.git
+git clone https://github.com/damevin/Nuxt3-QuickStarter.git
 ```
 
 Navigate to the project directory:
